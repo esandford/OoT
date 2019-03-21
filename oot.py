@@ -216,7 +216,3 @@ def demandExactEta(yesNo):
         print('This is probably a good idea for all but very high eccentricities')
     else:
         print('Argument not understood, enter either 0 (for approximate solution) or 1 (for exact)')
-<<<<<<< HEAD
-    
-=======
->>>>>>> upstream/master
